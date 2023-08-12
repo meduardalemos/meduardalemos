@@ -5,9 +5,27 @@
 - 📩 Entre em contato pelo email: maria.eduarda.lemos@hotmail.com
 - 📚 Estudando Java, Spring Framework e SQL
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=meduardalemos&show_icons=true&theme=tokyonight)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meduardalemos&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meduardalemos&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduardalemos&layout=compact" />
 </a>
+<hr>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/></span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+</span>
+<span><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</span>
+
+
+
+
+
+          
