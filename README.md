@@ -1,5 +1,9 @@
 ## Olá! Eu sou a Duda Lemos ✌️
 
+<img align="right" width="200" height="200" src="https://github.com/meduardalemos/meduardalemos/blob/main/brain_logo.png">
+
+Recifense, formada em Arquitetura e Urbanismo pela UFPE e com pós-graduação Master em Neuroarquitetura pelo IPOG. Sempre fui apaixonada por entender como as coisas funcionam e aprender coisas novas. Em todas as minhas experiências profissionais e educacionais me foquei na resolução de problemas. Atualmente, estou em processo de transição de carreira para o desenvolimento de software.
+
 - 💻 Tenho interesse em trabalhar como backend developer
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio
 - 📩 Entre em contato pelo email: maria.eduarda.lemos@hotmail.com
