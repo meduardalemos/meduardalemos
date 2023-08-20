@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Duda Lemos ✌️
 
-<img align="right" width="200" height="200" src="https://github.com/meduardalemos/meduardalemos/blob/main/brain_logo.png">
+<img align="right" width="290" height="200" src="https://github.com/meduardalemos/meduardalemos/blob/main/brain_code.png">
 
 Recifense, formada em Arquitetura e Urbanismo pela UFPE e com pós-graduação Master em Neuroarquitetura pelo IPOG. Sempre fui apaixonada por entender como as coisas funcionam e aprender coisas novas. Em todas as minhas experiências profissionais e educacionais me foquei na resolução de problemas. Atualmente, estou em processo de transição de carreira para o desenvolimento de software.
 
