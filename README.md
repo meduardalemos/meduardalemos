@@ -6,8 +6,9 @@ Recifense, formada em Arquitetura e Urbanismo pela UFPE e com pós-graduação M
 
 - 💻 Tenho interesse em trabalhar como backend developer
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio
-- 📩 Entre em contato pelo email: maria.eduarda.lemos@hotmail.com
 - 📚 Estudando Java e Desenvolvimento Android
+- 📩 <a href="https://www.linkedin.com/in/maria-eduarda-lemos-5ab30280/"> Entre em contato comigo por aqui </a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=meduardalemos&show_icons=true" />
