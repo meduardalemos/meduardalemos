@@ -1,12 +1,10 @@
 ## Olá! Eu sou a Duda Lemos ✌️
 
-<img align="right" width="290" height="200" src="https://github.com/meduardalemos/meduardalemos/blob/main/brain_code.png">
-
-Recifense, formada em Arquitetura e Urbanismo pela UFPE e com pós-graduação Master em Neuroarquitetura pelo IPOG. Sempre fui apaixonada por entender como as coisas funcionam e aprender coisas novas. Em todas as minhas experiências profissionais e educacionais me foquei na resolução de problemas. Atualmente, estou em processo de transição de carreira para o desenvolvimento de software.
+Recifense, formada em Arquitetura e Urbanismo pela UFPE e com pós-graduação Master em Neuroarquitetura pelo IPOG. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sempre fui apaixonada por entender como o mundo funciona e aprender coisas novas. Em todas as minhas experiências profissionais e educacionais me foquei na resolução de problemas. Estou em processo de transição de carreira.
 
 - 💻 Tenho interesse em trabalhar como backend developer
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio
-- 📚 Estudando Java e Desenvolvimento Android
+- 📚 Estudando Java e .NET (C#)
 - 📩 <a href="https://www.linkedin.com/in/maria-eduarda-lemos-5ab30280/"> Entre em contato comigo por aqui </a>
 
 
